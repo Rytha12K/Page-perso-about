@@ -35,4 +35,15 @@ header ul li a {
 
 header ul li a:hover {
   background-color: #111111;
+
+}
+
+#salut {color: green;}
+
+h2
+{text-align: center;
+}
+
+p {
+  text-align: center;
 }
